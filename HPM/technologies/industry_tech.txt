@@ -1395,7 +1395,7 @@ medicine = {
     ai_chance = {
         factor = 10
         modifier = {
-            factor = 5
+            factor = 500
             civilized = yes
         }
         modifier = {

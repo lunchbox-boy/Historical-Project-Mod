@@ -1275,7 +1275,7 @@ aerial_bacteria_and_antiseptic_principle = {
         }
     }
     effect = {
-        pop_growth = 0.0003
+        pop_growth = 0.0004
         land_attrition = -0.05
         soldier_to_pop_loss = 0.01
     }
